@@ -15,4 +15,6 @@ To calculate the angle:
     **Min. Area Rectangle:**<br>
     As is clear from the name, the bounding rectangle is drawn with a minimum area.The below image shows 2 rectangles, the green one is the normal bounding rectangle while the red one is the minimum area rectangle.<br>
     ![image](https://user-images.githubusercontent.com/20660098/130480219-e36ab995-5f20-4b63-b2a3-60b45e0e0dac.png)
+    
+Ref: https://docs.opencv.org/
 
